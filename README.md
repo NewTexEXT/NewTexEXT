@@ -4,7 +4,7 @@
 </p>
 
 <!-- Títulos e Intro -->
-<h1 align="center">Hola, somos el equipo de Nexa EXT</h1>
+<h1 align="center">Hola, somos el equipo de NewTex</h1>
 <h3 align="center">Apasionados por el desarrollo de software y la creación de soluciones innovadoras.</h3>
 
 ---
@@ -17,7 +17,7 @@
   <br>
   💬 Pregúntanos sobre el <strong>Enfoque del proyecto</strong>.
   <br>
-  📫 Cómo contactarnos: <strong>equipo.nexa@gmail.com</strong>
+  📫 Cómo contactarnos: <strong>equipo.newtex@gmail.com</strong>
 </p>
 
 ---
