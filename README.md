@@ -15,7 +15,7 @@
 
 <!-- Sobre Nosotros -->
 <p align="left">
-  🔭 Actualmente estamos trabajando en el <strong>Ecosistema Digital NEWTEX</strong> (Web corporativa, CRM y TRAZZA).
+  🔭 Actualmente estamos trabajando en el <strong>Ecosistema Digital NEWTEX.</strong>
   <br>
   🌱 Especializándonos en <strong>Arquitectura Cloud e Integración de Sistemas Industriales</strong>.
   <br>
@@ -39,14 +39,6 @@
 </p>
 
 ---
-
-<!-- Estadísticas de GitHub -->
-<h3 align="left">📊 Estadísticas del Equipo:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Newtex-EXT&show_icons=true&locale=es&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newtex-EXT&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
 
 <!-- Redes Sociales/Contacto -->
 <p align="center">
