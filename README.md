@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attach<img width="3750" height="1250" alt="FIRMA DIGITAL NEWTEX" src="https://github.com/user-attachments/assets/a04fa011-cc54-4a67-becd-607cbee880ea" />
-ments/assets/TU_NUEVO_ID_AQUI" alt="Banner de NEWTEX">
+  <img width="3750" height="1250" alt="FIRMA DIGITAL NEWTEX" src="https://github.com/user-attachments/assets/963fe4c1-92af-49a6-aee2-91e007ec8938" />
 </p>
 
 <!-- Títulos e Intro -->
