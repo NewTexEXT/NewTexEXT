@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.newtex.es">
-  <img src="[PEGA_AQUI_EL_URL_DEL_BANNER](https://github.com/user-attachments/assets/1c54c330-def6-45a2-841c-26843405ba5c)" alt="NEWTEX — Ingeniería de Software & Automatización" width="100%">
+  <img src="https://github.com/user-attachments/assets/1c54c330-def6-45a2-841c-26843405ba5c" alt="NEWTEX — Ingeniería de Software & Automatización" width="100%">
 </a>
 
 <br><br>
